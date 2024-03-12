@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+.introKFC {
+    background-color: #fff;
+    width: 60%;
+}
+.introKFC h2 {
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+
+.introKFC p,
+.introKFC li {
+    font-size: 20px;
+}

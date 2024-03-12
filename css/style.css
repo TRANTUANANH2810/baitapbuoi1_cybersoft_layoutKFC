@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: #fff;
+    background-color: red;
+}
+.nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.nav a {
+    font-size: 20px;
+}
+.content {
+    background: brown;
+}
+
+.content h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+}
+
+.content p {
+    color: #fff;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.content b {
+    color: #000;
+}
+.content img {
+    width: 50%;
+    height: 50%;
+}
+.content ul li {
+    color: #fff;
+    font-size: 25px;
+}
+
+.content3 h2 {
+    text-align: center;
+    font-size: 32px;
+}
